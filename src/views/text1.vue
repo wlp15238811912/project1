@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>text页面-----</h1>
+<h1>text1</h1>
     </div>
 </template>
 <script>
