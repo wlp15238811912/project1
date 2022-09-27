@@ -1,10 +1,8 @@
 <template>
     <div>
-<<<<<<< HEAD
+
 <h1>text1</h1>
-=======
-        <h1>text1页面</h1>
->>>>>>> text
+
     </div>
 </template>
 <script>
